@@ -5,4 +5,4 @@ It will detect if any humans coming infront of it and trigger a loud buzzer to m
 
 # Flow Chart
 
-![alt text](Flow Chart.png)
+![](flow_chart.png)
